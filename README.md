@@ -10,4 +10,5 @@ Project displayed at MMCOE Hackathon to scrape data related to DIN numbers from 
 - tkinter
 
 # Requirements 
-Download 'chromedriver.exe' file (given in the repository) and put the code and .exe file in the same folder before running it.
+- Download 'chromedriver.exe' file (given in the repository)
+- Put the code and .exe file in the same folder before running it.
